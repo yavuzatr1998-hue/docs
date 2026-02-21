@@ -9,8 +9,7 @@ children:
   - /about-githubs-documentation-philosophy
   - /about-githubs-documentation-fundamentals
   - /content-design-principles
-  - /writing-content-to-be-translated
-  - 
+  - /writing-content-to-be-translate
   - /making-content-findable-in-search
   - /versioning-documentation
   - /using-markdown-and-liquid-in-github-docs
